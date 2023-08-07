@@ -1,7 +1,7 @@
 # for 3 dimensions
 import numpy as np
 import math
-import Q3 as q
+import utility as q
 import pprint
 
 # Find all the angles in a triangle represented by ABC

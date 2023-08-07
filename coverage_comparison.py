@@ -1,5 +1,5 @@
 import numpy as np
-import Q3
+import utility
 
 def generate_random_points(d,n):
     # Initialize the points randomly on the unit sphere
